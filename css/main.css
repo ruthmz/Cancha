@@ -1,0 +1,48 @@
+div{
+  display: inline-block;
+}
+.grass{
+  background-color:#8cb47c;
+  position: absolute;
+  height: 375px;
+  width: 680px;
+}
+.borde {
+  border: 3px solid white;
+  height: 92%;
+  width:95%;
+  position: relative;
+  left: 15px;
+  top: 12px;
+}
+
+.borde-arco {
+  border: 3px solid white;
+  height: 150px;
+  width:80px;
+  position: absolute;
+  left: 15px;
+  top: 29%;
+}
+.borde-arco2 {
+  border-color: black;
+  border: 3px solid white;
+  height: 150px;
+  width: 80px;
+  position: absolute;
+  right: 13px;
+  top: 29%;
+}
+.circle {
+  border: 3px solid white;
+  border-radius: 50%;
+  height: 150px;
+  width: 150px;
+  position: absolute;
+  left: 38%;
+  top:27%;
+}
+.pelota{
+  height: 20%;
+  width: 20%;
+}
